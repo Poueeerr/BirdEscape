@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1727830128 source:c:\users\bruno\onedrive\Área de trabalho\assembly\main.c
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<math.h>
+	<windows.h>
+	<unistd.h>
+	<fcntl.h>
+
+1733014632 source:c:\users\bruno\onedrive\Área de trabalho\pessoal\usp\matérias 2º semestre bsi\organização e arquitetura de computadores\assembly\main.c
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<math.h>
+	<windows.h>
+	<unistd.h>
+	<fcntl.h>
+
