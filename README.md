@@ -10,3 +10,16 @@ O objetivo principal do projeto é explorar os conceitos de arquitetura de compu
 
 O jogo implementado é uma versão de **Google Dino**, programado inteiramente em Assembly.  
 Ele simula o movimento do jogo e obstaculos como meteoros disparados em direção ao player, desafiando o jogador a desviar dos obstaculos.  
+
+## Controles
+
+Espaço -> Pular
+A -> Agachar
+
+## Projeto desenvolvido por
+```
+Felipe Skubs Oliveira - 15451742
+Rafael Auada - 15648400
+Cleverson Cristian Oliveira Sousa - 15522410
+Leonardo Gonsalez - 15657074
+```
