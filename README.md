@@ -6,6 +6,13 @@ O objetivo principal do projeto é explorar os conceitos de arquitetura de compu
 
 ---
 
+## Link para vídeo apresentando o jogo:
+Clique para ser redirecionado ao Youtube!
+
+[![Assista ao vídeo](https://img.youtube.com/vi/3VSN1Zpyg2U/0.jpg)](https://youtu.be/3VSN1Zpyg2U)
+
+---
+
 ## 🕹️ Descrição do Jogo  
 
 O jogo implementado é uma versão de **Google Dino**, programado inteiramente em Assembly.  
